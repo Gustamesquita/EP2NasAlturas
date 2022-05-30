@@ -1,5 +1,5 @@
 # EP2NasAlturas
-Exercicio para comparação de arvores binárias de busca comuns e AVL.
+Exercicio para comparação de árvores binárias de busca comuns e AVL.
  
  Para desenvolver o código foi utilizado uma estrutura para criação de um nó, essa  estrutura será ultilizzada na maioria das  funções presentes no código
  
