@@ -1,7 +1,7 @@
 # EP2NasAlturas
 Exercicio para comparação de árvores binárias de busca comuns e AVL.
  
- Para desenvolver o código foi utilizado uma estrutura para criação de um nó, essa  estrutura será ultilizzada na maioria das  funções presentes no código
+ Para desenvolver o código foi utilizado uma estrutura para criação de um nó, essa  estrutura será ultilizzada na maioria das  funções presentes no código.
  
 ![image](https://user-images.githubusercontent.com/84047722/170893754-025ff10d-46b8-47bb-bc4f-50e8527dd6d8.png)
 
